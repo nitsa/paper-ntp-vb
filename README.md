@@ -1,2 +1,2 @@
 # Description
-Alternative communication channel over NTP
+Alternative communication channel over NTP.
