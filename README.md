@@ -1,2 +1,2 @@
-# paper-ntp-vb
+# Description
 Alternative communication channel over NTP
